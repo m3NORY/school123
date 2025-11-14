@@ -21,3 +21,4 @@ int main() {
     std::cout << "Все!" << std::endl;
     return 0;
 }
+// всем пока
